@@ -1,3 +1,5 @@
+"""rand.py: command line tool for generating random numbers onto stdout.
+Read the help text for more info."""
 from __future__ import print_function
 import sys
 import argparse
