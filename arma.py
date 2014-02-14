@@ -1,3 +1,4 @@
+"""Generates an ARMA stream onto the stdout."""
 import sys
 import random
 
