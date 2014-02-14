@@ -1,3 +1,5 @@
+"""mov_avg.py: conduct a moving average filter on stdin.
+Does not support non uniform window weights."""
 from __future__ import print_function
 import argparse
 from collections import deque
